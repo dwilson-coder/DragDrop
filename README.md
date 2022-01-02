@@ -6,7 +6,7 @@
 
 ### Mozilla Editable Content
 
-[Mozilla Reference](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Editable_content)[example link text](http://example/com)
+[Mozilla Reference](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Editable_content)
 
 <br/>
 
